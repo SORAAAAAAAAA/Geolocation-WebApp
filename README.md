@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the Next.js frontend application for the JLabs Assessment. It provides a user interface for geolocation tracking and mapping.
+This repository contains the Next.js frontend application. It provides a user interface for geolocation tracking and mapping.
 
 ## Technologies Used
 
