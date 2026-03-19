@@ -28,7 +28,7 @@ Follow these steps to set up and run the frontend application locally.
 Create the necessary environment variable file by copying the provided example and filling in the appropriate values.
 
 ```bash
-cp .env.example .env.local
+cp .env.example .env
 ```
 
 ### 2. Install Dependencies
